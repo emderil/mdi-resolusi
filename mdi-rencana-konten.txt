@@ -3,7 +3,10 @@ RENCANA KONTEN MDI
 - Javascript
  * ES6
  * Framework Javascript
+   ^ Vue
+   ^ React
 - Struktur data dasar
 - Php Framework
+  ^ Laravel
 - Interview
 - Vlogs
